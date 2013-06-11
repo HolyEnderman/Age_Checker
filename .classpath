@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Walker/Downloads/snakeyaml-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Walker/Downloads/spigot-1.5.2-R0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Walker/Downloads/spigot-api-1.5.2-R0.2-20130607.235011-63.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

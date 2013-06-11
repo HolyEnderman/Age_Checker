@@ -1,0 +1,16 @@
+# This is the age that you dont want anyone younger joining
+age: 13
+# either true or false, whether or not you want new players position locked untill age checked
+lock: true
+# the command to execute when player is over set age can use %target% to represt the player name
+success: default
+#The message you would like to relay to the player on success
+successmsg: 'You are of age to play! Have fun :P'
+# the command to execute when player is not over set age can use %target% to represt the player name
+failure: default
+# The message you would like to relay to the player on failure
+failuremsg: 'You are not of age to play on this server'
+# whether or not to display players age with the /birthdays command
+birthdaysage: false
+# date format for the DOB command, please use either DD/MM/YYYY or MM/DD/YYYY
+DateFormat: MM/DD/YYYY 

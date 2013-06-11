@@ -1,0 +1,17 @@
+name: AgeChecker
+main: com.manygamers.rossfudgew.AgeChecker.App
+version: 0.8
+commands:
+   DOB:
+      description: This command registers your date of birth with the server
+      usage: /<command> MM/DD/YYYY Put 0 infront of single digits
+   bypass:
+      description: This command allows an OP to allow a player to bypass the age check
+      usage: /<command> <target player> <true or false>
+   birthday:
+      description: This command displays the target players birthday
+      usage: /<command> <target player>
+   birthdays:
+      description: This command displays the people who have birthdays today
+      usage: /<command> 
+      
