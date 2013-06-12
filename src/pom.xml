@@ -2,8 +2,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.thelonedevil</groupId>
-  <artifactId>AgeChecker</artifactId>
+  <groupId>com.manygamers.rossfudgew</groupId>
+  <artifactId>Age_Checker</artifactId>
   <packaging>jar</packaging>
 
   <name>AgeChecker</name>
@@ -43,5 +43,5 @@
   </dependency>
     
   </dependencies>
-  <version>7</version>
+  <version>0.8.a</version>
 </project>
